@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-saya/static/css/main.073c9b0a.css",
+    "main.js": "/web-saya/static/js/main.32281e16.js",
+    "static/js/787.e58601de.chunk.js": "/web-saya/static/js/787.e58601de.chunk.js",
+    "static/media/logo.svg": "/web-saya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web-saya/index.html",
+    "main.073c9b0a.css.map": "/web-saya/static/css/main.073c9b0a.css.map",
+    "main.32281e16.js.map": "/web-saya/static/js/main.32281e16.js.map",
+    "787.e58601de.chunk.js.map": "/web-saya/static/js/787.e58601de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32281e16.js"
+  ]
+}
